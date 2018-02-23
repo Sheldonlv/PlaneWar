@@ -3,7 +3,7 @@
 '''Create by Sheldon on 2018/2/18.
    Description :
    游戏主函数
-   记录游戏初始化、碰撞判定、游戏规则划定等任务
+   记录游戏初始化、碰撞判定、游戏规则划定等功能
 '''
 
 import pygame
