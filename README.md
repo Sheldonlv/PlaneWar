@@ -1,8 +1,8 @@
 # PlaneWar
 ### Pygame模块重现的‘’经典飞机大战‘’游戏
 
-- Python 3.5
-- pygame 1.9.3
+- Python版本：Python 3.5
+- 涉及主要库：pygame 1.9.3
 - 测试环境: Windows10, Ubuntu16.04
 
 
